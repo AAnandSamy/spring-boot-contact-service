@@ -1,3 +1,6 @@
-# spring-boot-contact-service
+# spring-boot REST service
 
-http://localhost:8080/contacts
+## contact-service
+
+ - service url http://localhost:8080/contacts
+ - response `{"firstName":"Anand","lastName":"Samy"}`
